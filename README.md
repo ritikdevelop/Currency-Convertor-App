@@ -29,7 +29,7 @@ The Currency Converter app is a React.js application that provides real-time cur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/currency-converter-app.git
+    https://github.com/ritikdevelop/Currency-Convertor-App.git
     cd currency-converter-app
     ```
 
